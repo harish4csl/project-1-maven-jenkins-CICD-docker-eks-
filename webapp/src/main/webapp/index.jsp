@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for 9pm DevOps with A Multi-cloud Real time training 2026 </h1>
+    <h1>New user Register for 9PM DevOps with A Multi-cloud Real time training 2026 ny HARISH </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
